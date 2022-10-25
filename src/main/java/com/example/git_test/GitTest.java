@@ -11,7 +11,8 @@ public class GitTest {
         System.out.println("git test");
         System.out.println("git test");
         System.out.println("git test");
-        System.out.println("git test4");
         System.out.println("git master_test4");
+        System.out.println("push");
+
     }
 }
